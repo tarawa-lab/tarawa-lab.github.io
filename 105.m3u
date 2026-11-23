@@ -1,60 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Barça 24H" tvg-logo="https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG_1793609335793.png" tvg-country="ES" group-title="Deportes · España",Barça 24H
 https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8#l105
-#EXTINF:-1 tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20261102T070306SQUARE.png" tvg-country="ES" group-title="Deportes · España",Barça 24H
-https://jmp2.uk/stvp-ES1100001MT#l105
 #EXTINF:-1 tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png" tvg-country="ES" group-title="Deportes · España",DFB Play TV
 https://jmp2.uk/stvp-ES3200003OC#l105
-#EXTINF:-1 tvg-name="Esport3" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",Esport3
-https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8#l105
 #EXTINF:-1 tvg-name="ETB Deportes (Kirolak 360)" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",ETB Deportes (Kirolak 360)
 https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8#l105
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png" tvg-country="ES" group-title="Deportes · España",FIFA+
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8#l105
-#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png" tvg-country="ES" group-title="Deportes · España",FIFA+
-https://jmp2.uk/stvp-ESBC2700009B4#l105
 #EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" tvg-country="ES" group-title="Deportes · España",Fight Network
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-606605549dbfca002d2ae877/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" tvg-country="ES" group-title="Deportes · España",Fight Network
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-606605549dbfca002d2ae877/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" tvg-country="ES" group-title="Deportes · España",FTF Sports
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-605a309dc5acdc002c7a20aa/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" tvg-country="ES" group-title="Deportes · España",FTF Sports
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-605a309dc5acdc002c7a20aa/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Futsalmafer.tv" tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",Futsalmafer.tv
 https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8#l105
 #EXTINF:-1 tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png" tvg-country="ES" group-title="Deportes · España",GFN Football TV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67c247c345ae99120c071586/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png" tvg-country="ES" group-title="Deportes · España",GFN Football TV
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67c247c345ae99120c071586/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="INTER 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES31000013F_20260324T034829SQUARE.png" tvg-country="ES" group-title="Deportes · España",INTER 24/7
 https://jmp2.uk/stvp-ES31000013F#l105
 #EXTINF:-1 tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" tvg-country="ES" group-title="Deportes · España",ITV Deportes
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-688d3402a6fe30698ab42007/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" tvg-country="ES" group-title="Deportes · España",ITV Deportes
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-688d3402a6fe30698ab42007/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png" tvg-country="ES" group-title="Deportes · España",Motorvision
 https://jmp2.uk/stvp-ESBD3200001EG#l105
 #EXTINF:-1 tvg-name="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png" tvg-country="ES" group-title="Deportes · España",MyPadel TV
 https://jmp2.uk/stvp-ES30000091V#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png" tvg-country="ES" group-title="Deportes · España",NFL Channel
 https://jmp2.uk/plu-6a6a02ae3ee9d966427e62c4.m3u8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" tvg-country="ES" group-title="Deportes · España",NFL Channel
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-69f4f6c2647c1d14cc38677b/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" tvg-country="ES" group-title="Deportes · España",NFL Channel
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-69f4f6c2647c1d14cc38677b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/wPQVVtj.png" tvg-country="ES" group-title="Deportes · España",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8#l105
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" tvg-country="ES" group-title="Deportes · España",Racing America
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-61a945156547ba4d6d238dc9/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" tvg-country="ES" group-title="Deportes · España",Racing America
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-61a945156547ba4d6d238dc9/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png" tvg-country="ES" group-title="Deportes · España",Rally.TV FAST+
 https://jmp2.uk/stvp-ES51000017V#l105
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#l105
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3500003JZ_20261110T043519SQUARE.png" tvg-country="ES" group-title="Deportes · España",Real Madrid TV
-https://jmp2.uk/stvp-ES3500003JZ#l105
 #EXTINF:-1 tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" tvg-country="ES" group-title="Deportes · España",Realmadrid TV
 https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8#l105
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" tvg-country="ES" group-title="Deportes · España",Red Bull TV
@@ -63,54 +39,32 @@ https://jmp2.uk/stvp-ES3800001V1#l105
 https://jmp2.uk/stvp-ES4300004JP#l105
 #EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" tvg-country="ES" group-title="Deportes · España",SportsGrid
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5ef11485d33ab9004048a1ca/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" tvg-country="ES" group-title="Deportes · España",SportsGrid
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5ef11485d33ab9004048a1ca/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png" tvg-country="ES" group-title="Deportes · España",Surf Channel
 https://jmp2.uk/stvp-ES3400002PY#l105
-#EXTINF:-1 tvg-name="Teledeporte" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",Teledeporte
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8#l105
 #EXTINF:-1 tvg-name="Teledeporte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260622T063739SQUARE.png" tvg-country="ES" group-title="Deportes · España",Teledeporte
 https://jmp2.uk/stvp-ESBC410000577#l105
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png" tvg-country="ES" group-title="Deportes · España",Tennis Channel
 https://jmp2.uk/plu-6a43c8e19d516ba88f728627.m3u8#l105
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png" tvg-country="ES" group-title="Deportes · España",Tennis Channel
-https://jmp2.uk/stvp-ESBD2600001ME#l105
 #EXTINF:-1 tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" tvg-country="ES" group-title="Deportes · España",Tennis TV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6a90b2b5c0870218305e909b/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" tvg-country="ES" group-title="Deportes · España",Tennis TV
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6a90b2b5c0870218305e909b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20260113T032333SQUARE.png" tvg-country="ES" group-title="Deportes · España",Tennis+
 https://jmp2.uk/stvp-ES20000065W#l105
-#EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" tvg-country="ES" group-title="Deportes · España",Tennis+
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6761f91555e174e95ccc4e4c/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" tvg-country="ES" group-title="Deportes · España",Tennis+
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6761f91555e174e95ccc4e4c/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Top Barça" tvg-logo="https://graph.facebook.com/fcbarcelona/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",Top Barça
 https://amg17560-fcb-amg17560c2-samsung-es-9803.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-samsunges/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="UFC" tvg-country="ES" group-title="Deportes · España",UFC
-https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8#l105
 #EXTINF:-1 tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" tvg-country="ES" group-title="Deportes · España",UFC
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" tvg-country="ES" group-title="Deportes · España",UFC
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Vinx TV" tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" tvg-country="ES" group-title="Deportes · España",Vinx TV
 https://live.enfoque.media:5443/live/streams/vinxtv.m3u8#l105
 #EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" tvg-country="ES" group-title="Deportes · España",Women's Sports Network
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-630fa9e577ec3866def38fa2/?X-Plex-Token=zm9-p_w_vzs_oqWhDYn8#l105
-#EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" tvg-country="ES" group-title="Deportes · España",Women's Sports Network
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-630fa9e577ec3866def38fa2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" tvg-country="ES" group-title="Deportes · España",World Poker Tour
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8#l105
-#EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png" tvg-country="ES" group-title="Deportes · España",World Poker Tour
-https://jmp2.uk/stvp-ESBD2900001P9#l105
 #EXTINF:-1 tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-country="ES" group-title="Deportes · España",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8#l105
 #EXTINF:-1 tvg-name="Canal Showsport" tvg-logo="https://i.imgur.com/0L9tW3Z.png" tvg-country="AR" group-title="Deportes · Argentina",Canal Showsport
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8#l105
 #EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/THk9ARS.png" tvg-country="AR" group-title="Deportes · Argentina",DeporTV
 http://158.172.155.130:8000/play/a09y/index.m3u8#l105
-#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-country="AR" group-title="Deportes · Argentina",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" tvg-country="AR" group-title="Deportes · Argentina",ESPN Premium
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8#l105
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-country="AR" group-title="Deportes · Argentina",Fox Sports
@@ -165,8 +119,6 @@ https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8#l105
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Azteca Deportes Network" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" tvg-country="MX" group-title="Deportes · México",Azteca Deportes Network
 http://209.14.115.253:8081/azteca-deportes/index.m3u8#l105
-#EXTINF:-1 tvg-name="Azteca Deportes Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png" tvg-country="MX" group-title="Deportes · México",Azteca Deportes Network
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Azteca Deportes Premium" tvg-country="MX" group-title="Deportes · México",Azteca Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8#l105
 #EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-country="MX" group-title="Deportes · México",Claro Sports
@@ -183,12 +135,8 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-605a309dc5ac
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="ITV Deportes" tvg-logo="https://iili.io/J1kV1Bn.png" tvg-country="MX" group-title="Deportes · México",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8#l105
-#EXTINF:-1 tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" tvg-country="MX" group-title="Deportes · México",ITV Deportes
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png" tvg-country="MX" group-title="Deportes · México",NFL Channel
 https://jmp2.uk/plu-6a68cb5a116cd6d17dba0b95.m3u8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" tvg-country="MX" group-title="Deportes · México",NFL Channel
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-69f4f6c2647c1d14cc38677b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777492822828.png" tvg-country="MX" group-title="Deportes · México",Pluto TV Fútbol
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8#l105
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" tvg-country="MX" group-title="Deportes · México",Racing America
@@ -207,8 +155,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6761f91555e1
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8#l105
 #EXTINF:-1 tvg-name="UFC" tvg-country="MX" group-title="Deportes · México",UFC
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8#l105
-#EXTINF:-1 tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" tvg-country="MX" group-title="Deportes · México",UFC
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccac69fdf9cd3a568ef135/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" tvg-country="MX" group-title="Deportes · México",Women's Sports Network
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-630fa9e577ec3866def38fa2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tigo Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-country="PY" group-title="Deportes · Paraguay",Tigo Sports+
@@ -253,8 +199,6 @@ http://181.79.86.130:8000/play/a081/index.m3u8#l105
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-country="US" group-title="Deportes · Estados Unidos",beIN SPORTS XTRA en Espanol
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8#l105
-#EXTINF:-1 tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png" tvg-country="US" group-title="Deportes · Estados Unidos",beIN Sports Xtra en Español
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64a8903d273b89c4e7396553/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-country="US" group-title="Deportes · Estados Unidos",DSports
 http://38.187.7.252:8000/play/a03d/index.m3u8#l105
 #EXTINF:-1 tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-country="US" group-title="Deportes · Estados Unidos",DSports 2
@@ -306,8 +250,6 @@ https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8#l105
 https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8#l105
 #EXTINF:-1 tvg-name="More Than Sports TV" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-country="DE" group-title="Deportes · Alemania",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="More than Sports TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000034M_20250107T024343SQUARE.png" tvg-country="DE" group-title="Deportes · Alemania",More than Sports TV
-https://jmp2.uk/stvp-DEBD26000034M#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02dc05520fcba93df783/colorLogoPNG_1785333546555.png" tvg-country="DE" group-title="Deportes · Alemania",NFL Channel
 https://jmp2.uk/plu-6a6a02dc05520fcba93df783.m3u8#l105
 #EXTINF:-1 tvg-name="Pluto TV Sport" tvg-logo="https://i.imgur.com/y22ElOr.png" tvg-country="DE" group-title="Deportes · Alemania",Pluto TV Sport
@@ -332,8 +274,6 @@ http://94.130.48.67:8042/stream/55/index.m3u8#l105
 #EXTINF:-1 tvg-name="Sky Sport Top Event" tvg-logo="https://i.imgur.com/kQ6cVNx.png" tvg-country="DE" group-title="Deportes · Alemania",Sky Sport Top Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://94.130.48.67:8042/stream/50/index.m3u8#l105
-#EXTINF:-1 tvg-name="SPIEGEL TV Konflikte" tvg-country="DE" group-title="Deportes · Alemania",SPIEGEL TV Konflikte
-https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8#l105
 #EXTINF:-1 tvg-name="SPIEGEL TV Konflikte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900001NG_20250107T024403SQUARE.png" tvg-country="DE" group-title="Deportes · Alemania",SPIEGEL TV Konflikte
 https://jmp2.uk/stvp-DEAJ2900001NG#l105
 #EXTINF:-1 tvg-name="Sport1" tvg-logo="https://i.imgur.com/Tsjt7v9.png" tvg-country="DE" group-title="Deportes · Alemania",Sport1
@@ -372,8 +312,6 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6a10994ab053
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-61a945156547ba4d6d238dc9/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/Q55HX1O.png" tvg-country="AU" group-title="Deportes · Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8#l105
-#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" tvg-country="AU" group-title="Deportes · Australia",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8#l105
 #EXTINF:-1 tvg-name="Sky Racing 1" tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-country="AU" group-title="Deportes · Australia",Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Sky Racing 2" tvg-logo="https://i.imgur.com/TxQvFnQ.png" tvg-country="AU" group-title="Deportes · Australia",Sky Racing 2
@@ -410,8 +348,6 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8#l105
 https://jmp2.uk/stvp-ATBD5000002B1#l105
 #EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://i.imgur.com/3mEdjuq.png" tvg-country="AZ" group-title="Deportes · Azerbaiyán",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-country="AZ" group-title="Deportes · Azerbaiyán",CBC Sport
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.imgur.com/2JzlorD.png" tvg-country="BD" group-title="Deportes · Bangladés",T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8#l105
 #EXTINF:-1 tvg-name="Bahrain Sports 1" tvg-logo="https://i.imgur.com/fBpLsbC.png" tvg-country="BH" group-title="Deportes · Baréin",Bahrain Sports 1
@@ -471,8 +407,6 @@ https://jmp2.uk/stvp-CABA8000043F#l105
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-680ad9f73f3c406c06d7392b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-country="CA" group-title="Deportes · Canadá",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8#l105
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" tvg-country="CA" group-title="Deportes · Canadá",Fight Network
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-606605549dbfca002d2ae877/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" tvg-country="CA" group-title="Deportes · Canadá",FTF Sports
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-605a309dc5acdc002c7a20aa/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Game+" tvg-logo="https://i.imgur.com/Lj69WbR.png" tvg-country="CA" group-title="Deportes · Canadá",Game+
@@ -488,8 +422,6 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-687e47c33f6f
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-688d3402a6fe30698ab42007/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" tvg-country="CA" group-title="Deportes · Canadá",NFL Channel
 https://jmp2.uk/plu-6a68dd013ee9d9664278cfb6.m3u8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" tvg-country="CA" group-title="Deportes · Canadá",NFL Channel
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69f4f6c2647c1d14cc38677b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NFL Super Bowl Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png" tvg-country="CA" group-title="Deportes · Canadá",NFL Super Bowl Champions
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a10994ab05301ef36a6a8e2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" tvg-country="CA" group-title="Deportes · Canadá",Racing America
@@ -522,16 +454,10 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://109.104.153.220/TSN-4/index.m3u8#l105
 #EXTINF:-1 tvg-name="UFC" tvg-country="CA" group-title="Deportes · Canadá",UFC
 https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8#l105
-#EXTINF:-1 tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900012S9_20260727T081716SQUARE.png" tvg-country="CA" group-title="Deportes · Canadá",UFC
-https://jmp2.uk/stvp-CA2900012S9#l105
-#EXTINF:-1 tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" tvg-country="CA" group-title="Deportes · Canadá",UFC
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66ccac69fdf9cd3a568ef135/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Unbeaten Sports Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA11000032G_20250523T232021SQUARE.png" tvg-country="CA" group-title="Deportes · Canadá",Unbeaten Sports Channel
 https://jmp2.uk/stvp-CA11000032G#l105
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA20000016D_20260112T181659SQUARE.png" tvg-country="CA" group-title="Deportes · Canadá",Willow Sports
 https://jmp2.uk/stvp-CA20000016D#l105
-#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" tvg-country="CA" group-title="Deportes · Canadá",Willow Sports
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66fbf9cf128ab3f65b259bcb/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" tvg-country="CA" group-title="Deportes · Canadá",Women's Sports Network
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-630fa9e577ec3866def38fa2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" tvg-country="QA" group-title="Deportes · Catar",Alkass Four
@@ -609,8 +535,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8#l105
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/CsEElsJ.png" tvg-country="AE" group-title="Deportes · Emiratos Árabes Unidos",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" group-title="Deportes · Emiratos Árabes Unidos",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Arena Sport 1" tvg-logo="https://i.imgur.com/2qf67zW.png" tvg-country="SK" group-title="Deportes · Eslovaquia",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_arenasport/playlist.m3u8#l105
@@ -651,58 +575,36 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_
 https://jmp2.uk/rok-45d1a1d195389ccd95894d31b7d8627d.m3u8#l105
 #EXTINF:-1 tvg-name="Azteca Deportes Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e151213-c794-4086-a772-92722251da39/Az_dep_blanco.png" tvg-country="US" group-title="Deportes · Estados Unidos",Azteca Deportes Network
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a4af875410e0eea561f76af/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="Bassmaster" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Bassmaster
-https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8#l105
-#EXTINF:-1 tvg-name="Baywatch" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" tvg-country="US" group-title="Deportes · Estados Unidos",Baywatch
-https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8#l105
+#EXTINF:-1 tvg-name="Bassmaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d14e42-d9be-4f81-893f-cb676d32c473/BassmasterChannel_DarkBackground_-_Will_Flowers.png" tvg-country="US" group-title="Deportes · Estados Unidos",Bassmaster
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68caada21fabab6eb2e99331/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" tvg-country="US" group-title="Deportes · Estados Unidos",beIN Sports USA
 https://tvsen6.aynaott.com/beinsports/index.m3u8#l105
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-country="US" group-title="Deportes · Estados Unidos",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",beIN SPORTS XTRA
-https://jmp2.uk/stvp-USAJ4300001Q7#l105
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df24287c-ba1c-461f-b686-b1842ba47857/beIN_SPORTS_XTRA_LOGO.png" tvg-country="US" group-title="Deportes · Estados Unidos",beIN SPORTS XTRA
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60a53634126de9002e694bc4/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="beIN Sports XTRA ñ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20260421T142008SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",beIN Sports XTRA ñ
 https://jmp2.uk/stvp-US2700004DX#l105
 #EXTINF:-1 tvg-name="BEK Sports" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/beksports.png" tvg-country="US" group-title="Deportes · Estados Unidos",BEK Sports
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" tvg-country="US" group-title="Deportes · Estados Unidos",Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8#l105
+#EXTINF:-1 tvg-name="Bellator MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000006HT_20260421T142118SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Bellator MMA
+https://jmp2.uk/stvp-US1000006HT#l105
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/BZijfKh.png" tvg-country="US" group-title="Deportes · Estados Unidos",Billiard TV
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8#l105
-#EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b4814b9a5e53029e2b9aba64ddc1df0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563498113_BilliardTV_Logo_HUDLogo.png" tvg-country="US" group-title="Deportes · Estados Unidos",Billiard TV
-https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8#l105
 #EXTINF:-1 tvg-name="Bleav Football" tvg-country="US" group-title="Deportes · Estados Unidos",Bleav Football
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Canela.TV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" tvg-country="US" group-title="Deportes · Estados Unidos",Canela.TV Deportes
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64fba7b6bb3e0baa5dcc0949/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="CBS Sports Golazo Network" tvg-logo="https://i.imgur.com/eMjutHS.png" tvg-country="US" group-title="Deportes · Estados Unidos",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8#l105
-#EXTINF:-1 tvg-name="CBS Sports Golazo Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20261120T235917SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",CBS Sports Golazo Network
-https://jmp2.uk/stvp-US100000704#l105
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" tvg-country="US" group-title="Deportes · Estados Unidos",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8#l105
-#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" tvg-country="US" group-title="Deportes · Estados Unidos",CBS Sports HQ
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8#l105
-#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20260922T055647SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",CBS Sports HQ
-https://jmp2.uk/stvp-USBB4800005VO#l105
 #EXTINF:-1 tvg-name="Channel Fight" tvg-country="US" group-title="Deportes · Estados Unidos",Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8#l105
 #EXTINF:-1 tvg-name="CHGO Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b238edf1869657abb47970bc9b7bfce1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720447133788_Roku_HUD_CHGO.png" tvg-country="US" group-title="Deportes · Estados Unidos",CHGO Sports
 https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8#l105
-#EXTINF:-1 tvg-name="Cindie TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/42f8b22cbf239c576a05fe9a2f2a8233/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778884311512_CindieTV_RokuHUDlogo_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Cindie TV
-https://jmp2.uk/rok-42f8b22cbf239c576a05fe9a2f2a8233.m3u8#l105
 #EXTINF:-1 tvg-name="Cowboy+ Sports" tvg-country="US" group-title="Deportes · Estados Unidos",Cowboy+ Sports
 https://a-cdn.klowdtv.com/live3/cowboy_720p/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Cowboy+ Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9129e12-83ad-45ee-9429-6ad91a9041d6/C_S_WhiteLogo_1500x1000.png" tvg-country="US" group-title="Deportes · Estados Unidos",Cowboy+ Sports
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-680ad9f73f3c406c06d7392b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="CW Presents WWE NXT" tvg-logo="https://images.pluto.tv/channels/6a30478d0be0264f4a4e227c/colorLogoPNG_1789664021838.png" tvg-country="US" group-title="Deportes · Estados Unidos",CW Presents WWE NXT
 https://jmp2.uk/plu-6a30478d0be0264f4a4e227c.m3u8#l105
-#EXTINF:-1 tvg-name="CW Presents WWE NXT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/305d256e-8449-4a4d-adf9-f4bef5ad9cba/NXT-FAST-logo-Color-1500x1000.png" tvg-country="US" group-title="Deportes · Estados Unidos",CW Presents WWE NXT
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69bda77eccad88fe7741f67c/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="CW Presents WWE NXT" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac0caef9123a35df3b884b139340a597/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783457806003_cw_presents_wwe_nxt_logo_hud.png" tvg-country="US" group-title="Deportes · Estados Unidos",CW Presents WWE NXT
-https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8#l105
 #EXTINF:-1 tvg-name="DEPORTES ESTRELLATV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3c06fdf730b2bc048507d096111d6c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787946349723_DETV_260x147_01_horizontal_DB_1CW_.png" tvg-country="US" group-title="Deportes · Estados Unidos",DEPORTES ESTRELLATV
 https://jmp2.uk/rok-b3c06fdf730b2bc048507d096111d6c5.m3u8#l105
 #EXTINF:-1 tvg-name="DraftKings" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" tvg-country="US" group-title="Deportes · Estados Unidos",DraftKings
@@ -711,10 +613,8 @@ https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8#l105
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8#l105
 #EXTINF:-1 tvg-name="EchoSports" tvg-country="US" group-title="Deportes · Estados Unidos",EchoSports
 https://a-cdn.klowdtv.com/live2/echosports_720p/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="El Rey Rebel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/31d5929928835b90af7bee669e6dd217/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1702918419829_ElReyRebel_Logo_Center_Alligned_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",El Rey Rebel
-https://jmp2.uk/rok-31d5929928835b90af7bee669e6dd217.m3u8#l105
-#EXTINF:-1 tvg-name="Electric Now" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/15cc44e50d8453e18f21ea37713319c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Electric Now
-https://jmp2.uk/rok-15cc44e50d8453e18f21ea37713319c5.m3u8#l105
+#EXTINF:-1 tvg-name="El Rey Rebel" tvg-country="US" group-title="Deportes · Estados Unidos",El Rey Rebel
+https://jmp2.uk/plu-691d1200c2185a44642f5e7c.m3u8#l105
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" tvg-country="US" group-title="Deportes · Estados Unidos",ESPN
 http://tvsen7.aynascope.net/espn/index.m3u8#l105
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" tvg-country="US" group-title="Deportes · Estados Unidos",ESPN 2
@@ -733,8 +633,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8#l105
 #EXTINF:-1 tvg-name="FILMEX Clásico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-country="US" group-title="Deportes · Estados Unidos",FILMEX Clásico
 https://jmp2.uk/rok-50cd4d6c632d5172834eb5b77fa395c6.m3u8#l105
-#EXTINF:-1 tvg-name="FilmRise Western" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png" tvg-country="US" group-title="Deportes · Estados Unidos",FilmRise Western
-https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8#l105
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" tvg-country="US" group-title="Deportes · Estados Unidos",FITE 24/7
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="FloHockey" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png" tvg-country="US" group-title="Deportes · Estados Unidos",FloHockey
@@ -745,40 +643,16 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://jmp2.uk/rok-58e6bfd1c4819af32ead547dbc82e1f8.m3u8#l105
 #EXTINF:-1 tvg-name="FOX Sports" tvg-country="US" group-title="Deportes · Estados Unidos",FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8#l105
-#EXTINF:-1 tvg-name="Fox Sports" tvg-country="US" group-title="Deportes · Estados Unidos",Fox Sports
-https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-country="US" group-title="Deportes · Estados Unidos",FOX Sports
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8#l105
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20260421T143236SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",FOX Sports
-https://jmp2.uk/stvp-US2700001QY#l105
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" tvg-country="US" group-title="Deportes · Estados Unidos",FOX Sports
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-659f04ef27ae392d2e204695/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" tvg-country="US" group-title="Deportes · Estados Unidos",FOX Sports
-https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8#l105
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="US" group-title="Deportes · Estados Unidos",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8#l105
 #EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/35bddzKR/IMG-2281.png" tvg-country="US" group-title="Deportes · Estados Unidos",Fox Sports 2
 https://tvsen7.aynascope.net/foxsports2/index.m3u8#l105
-#EXTINF:-1 tvg-name="FreeTV Acción" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9fc6583c28985e15b3f05b46f5d77957/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282473878_FREETV_Accion_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",FreeTV Acción
-https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8#l105
 #EXTINF:-1 tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" tvg-country="US" group-title="Deportes · Estados Unidos",FreeTV Asia
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8#l105
-#EXTINF:-1 tvg-name="FreeTV Clásico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b29445028909978c06411a954c4b955e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1792624571656_FreeTV-Clasico-Info-HUD-channel-Identifier_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",FreeTV Clásico
-https://jmp2.uk/rok-b29445028909978c06411a954c4b955e.m3u8#l105
 #EXTINF:-1 tvg-name="FTF Sports" tvg-logo="https://i.imgur.com/yvUjOI3.png" tvg-country="US" group-title="Deportes · Estados Unidos",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8#l105
-#EXTINF:-1 tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" tvg-country="US" group-title="Deportes · Estados Unidos",FTF Sports
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Fubo Sports Network" tvg-logo="https://i.imgur.com/qFNRJLb.png" tvg-country="US" group-title="Deportes · Estados Unidos",Fubo Sports Network
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8#l105
-#EXTINF:-1 tvg-name="fubo Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20251014T230120SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",fubo Sports Network
-https://jmp2.uk/stvp-USAJ2200023Z0#l105
-#EXTINF:-1 tvg-name="Fubo Sports Network" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ac0e90e4853f26cfbcfd401790e7ab28.png" tvg-country="US" group-title="Deportes · Estados Unidos",Fubo Sports Network
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705f68aba71002d8b7b37/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" tvg-country="US" group-title="Deportes · Estados Unidos",Fubo Sports Network
-https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8#l105
-#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/10b859e5e8a1e710680c11dfdfb85c11/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1769180701803_FUEL_TV_HUD__LOGO_260x147_3_pixel_top_and_bottom_border.png" tvg-country="US" group-title="Deportes · Estados Unidos",FUEL TV
-https://jmp2.uk/rok-10b859e5e8a1e710680c11dfdfb85c11.m3u8#l105
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://i.imgur.com/tS7Ub7i.png" tvg-country="US" group-title="Deportes · Estados Unidos",Glory Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" tvg-country="US" group-title="Deportes · Estados Unidos",Golazo Network
@@ -787,16 +661,10 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8#l105
 https://tvsen6.aynaott.com/golfchannel/index.m3u8#l105
 #EXTINF:-1 tvg-name="GolfPass" tvg-country="US" group-title="Deportes · Estados Unidos",GolfPass
 https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8#l105
-#EXTINF:-1 tvg-name="GolfPass" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20260818T061041SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",GolfPass
-https://jmp2.uk/stvp-USBB400000145#l105
-#EXTINF:-1 tvg-name="GolfPass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8639a81b-d79c-4a70-8034-26edfb0e13bc/golfpass-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-country="US" group-title="Deportes · Estados Unidos",GolfPass
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="HBCU-GO Sports" tvg-logo="https://i.imgur.com/TY6sx5W.png" tvg-country="US" group-title="Deportes · Estados Unidos",HBCU-GO Sports
 https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="HBCUGO SPORTS" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" tvg-country="US" group-title="Deportes · Estados Unidos",HBCUGO SPORTS
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-631a212e82b744e0309aa56e/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="Highway Thru Hell" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b8a86b44ef0780c3b3226a63be07e0f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755914093970_HighwayThruHell_HUD_logo_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Highway Thru Hell
-https://jmp2.uk/rok-0b8a86b44ef0780c3b3226a63be07e0f.m3u8#l105
+#EXTINF:-1 tvg-name="Highway Thru Hell" tvg-country="US" group-title="Deportes · Estados Unidos",Highway Thru Hell
+https://amg00627-amg00627c15-vizio-us-9290.playouts.now.amagi.tv/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Hong Kong Fight Club" tvg-logo="https://provider-static.plex.tv/epg/cms/production/83976408-3f6b-4f5b-9359-9c1e140a7cec/HKFC_Logo_Dark_-_Paige_Sherman.png" tvg-country="US" group-title="Deportes · Estados Unidos",Hong Kong Fight Club
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-687e47c33f6f86f29359b2c7/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="In The Heat of the Night" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/108bd1c824eaca47592ec02c00f0a18a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839494339_InTheHeatOfTheNight_HUDLogo_Centered_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",In The Heat of the Night
@@ -807,70 +675,40 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-688d3402a6fe
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png" tvg-country="US" group-title="Deportes · Estados Unidos",Marquee Sports Network
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8#l105
-#EXTINF:-1 tvg-name="Maverick Black Cinema" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/834e2a09799752b3be7ecaab726b7242/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657585042524_Kelcie_Schwab_-_Image_HUD_%2528v2%2529.png" tvg-country="US" group-title="Deportes · Estados Unidos",Maverick Black Cinema
-https://jmp2.uk/rok-834e2a09799752b3be7ecaab726b7242.m3u8#l105
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" tvg-country="US" group-title="Deportes · Estados Unidos",MLB
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8#l105
 #EXTINF:-1 tvg-name="MMA TV" tvg-logo="https://i.imgur.com/Qxco1eW.png" tvg-country="US" group-title="Deportes · Estados Unidos",MMA TV
 http://31.148.48.15/M1_Global/index.m3u8#l105
 #EXTINF:-1 tvg-name="Monster Jam" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" tvg-country="US" group-title="Deportes · Estados Unidos",Monster Jam
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8#l105
-#EXTINF:-1 tvg-name="Monster Jam" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a361d429db9e46665be277da42af89a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738945799309_MonsterJam_White_Horizontal_Logo_260x147_HUD.png" tvg-country="US" group-title="Deportes · Estados Unidos",Monster Jam
-https://jmp2.uk/rok-a361d429db9e46665be277da42af89a4.m3u8#l105
 #EXTINF:-1 tvg-name="MotoGP Channel" tvg-country="US" group-title="Deportes · Estados Unidos",MotoGP Channel
 https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8#l105
-#EXTINF:-1 tvg-name="MotoGP Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500007C4_20260421T143306SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",MotoGP Channel
-https://jmp2.uk/stvp-US3500007C4#l105
-#EXTINF:-1 tvg-name="MotoGP Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5b19340-b4d9-498d-8f89-2a69bc30fc4b/MotoGPChannel_1500x1000_logo_for_dark_bgd_-_Eddie_Hunter-Higgins.png" tvg-country="US" group-title="Deportes · Estados Unidos",MotoGP Channel
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="MotorRacing" tvg-country="US" group-title="Deportes · Estados Unidos",MotorRacing
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8#l105
-#EXTINF:-1 tvg-name="Movie Hub" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Movie Hub
-https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8#l105
-#EXTINF:-1 tvg-name="Movie Hub Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Movie Hub Action
-https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8#l105
 #EXTINF:-1 tvg-name="MSG SportsZone" tvg-country="US" group-title="Deportes · Estados Unidos",MSG SportsZone
 https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="MSG SportsZone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",MSG SportsZone
-https://jmp2.uk/stvp-USBD300021B8#l105
-#EXTINF:-1 tvg-name="MSG SportsZone" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6786da65a6db13732b7b580755932165.png" tvg-country="US" group-title="Deportes · Estados Unidos",MSG SportsZone
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63b5df3f27159bc9de3062aa/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NBA FAST Channel" tvg-country="US" group-title="Deportes · Estados Unidos",NBA FAST Channel
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" tvg-country="US" group-title="Deportes · Estados Unidos",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8#l105
 #EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" tvg-country="US" group-title="Deportes · Estados Unidos",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008#l105
-#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" tvg-country="US" group-title="Deportes · Estados Unidos",NBC Sports NOW
-https://jmp2.uk/plu-6549306c83595c000815a696.m3u8#l105
-#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",NBC Sports NOW
-https://jmp2.uk/stvp-USBD420002446#l105
-#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/ccdbca6785ac89ad9cb6b6626b891a33.png" tvg-country="US" group-title="Deportes · Estados Unidos",NBC Sports NOW
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc70600598c41002da3dd43/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" tvg-country="US" group-title="Deportes · Estados Unidos",NFL Channel
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20261120T235948SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",NFL Channel
-https://jmp2.uk/stvp-US2600007WJ#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" tvg-country="US" group-title="Deportes · Estados Unidos",NFL Channel
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-61e805952502a7a6fa84d70f/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" tvg-country="US" group-title="Deportes · Estados Unidos",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8#l105
 #EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://i.imgur.com/UNZ8bef.png" tvg-country="US" group-title="Deportes · Estados Unidos",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="NHRA TV" tvg-logo="https://i.imgur.com/jZgcm4k.png" tvg-country="US" group-title="Deportes · Estados Unidos",NHRA TV
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8#l105
-#EXTINF:-1 tvg-name="NHRA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82bd10ceb52152a7adb6bdc5d776e794/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669151466290_NHRA-RokuChannel-260x147-hud_centered.png" tvg-country="US" group-title="Deportes · Estados Unidos",NHRA TV
-https://jmp2.uk/rok-82bd10ceb52152a7adb6bdc5d776e794.m3u8#l105
 #EXTINF:-1 tvg-name="Overtime" tvg-logo="https://i.imgur.com/9S9k4IK.png" tvg-country="US" group-title="Deportes · Estados Unidos",Overtime
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8#l105
-#EXTINF:-1 tvg-name="Pam Grier's Soul Flix" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e7b30e2a58409242100d0edd2bfebbfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734494082178_PGSF_HUDAthanasiosTsiris.png" tvg-country="US" group-title="Deportes · Estados Unidos",Pam Grier's Soul Flix
-https://jmp2.uk/rok-e7b30e2a58409242100d0edd2bfebbfd.m3u8#l105
+#EXTINF:-1 tvg-name="Pam Grier's Soul Flix" tvg-country="US" group-title="Deportes · Estados Unidos",Pam Grier's Soul Flix
+https://6a6e5678.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU291bEZsaXhfSExT/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="PBR RidePass" tvg-logo="https://i.imgur.com/gUxH97E.png" tvg-country="US" group-title="Deportes · Estados Unidos",PBR RidePass
 https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8#l105
 #EXTINF:-1 tvg-name="PFL MMA" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg" tvg-country="US" group-title="Deportes · Estados Unidos",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8#l105
-#EXTINF:-1 tvg-name="PFL MMA" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e46ac8cd0299b4c5f1403d999a432561/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746567430962_PFL_260x147_Logo_Center.png" tvg-country="US" group-title="Deportes · Estados Unidos",PFL MMA
-https://jmp2.uk/rok-e46ac8cd0299b4c5f1403d999a432561.m3u8#l105
 #EXTINF:-1 tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" tvg-country="US" group-title="Deportes · Estados Unidos",PGA Tour
 https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8#l105
 #EXTINF:-1 tvg-name="PHLY Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9ec48964d9b9502396f19fcb3a527074/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720539914940_Roku_HUD_PHLY.png" tvg-country="US" group-title="Deportes · Estados Unidos",PHLY Sports
@@ -883,12 +721,12 @@ https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8#l105
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8#l105
 #EXTINF:-1 tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" tvg-country="US" group-title="Deportes · Estados Unidos",Pluto TV Snooker 900
 https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8#l105
-#EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://i.imgur.com/1603HED.png" tvg-country="US" group-title="Deportes · Estados Unidos",PokerGo
-https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8#l105
+#EXTINF:-1 tvg-name="PokerGO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png" tvg-country="US" group-title="Deportes · Estados Unidos",PokerGO
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64ac687b4192b4e1bab96279/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="PopCorn Central" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a208207740dabd5e846e107b84db9123/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778891092269_Info-HUD-channel-Identifier_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",PopCorn Central
 https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8#l105
-#EXTINF:-1 tvg-name="POWERNATION" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ca25dfba8ba45a1bb277c8b0ca8f56c4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584189840_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",POWERNATION
-https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8#l105
+#EXTINF:-1 tvg-name="POWERNATION" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" tvg-country="US" group-title="Deportes · Estados Unidos",POWERNATION
+https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8#l105
 #EXTINF:-1 tvg-name="Racer Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" tvg-country="US" group-title="Deportes · Estados Unidos",Racer Network
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Racer Select" tvg-logo="https://i.imgur.com/CurtYvn.png" tvg-country="US" group-title="Deportes · Estados Unidos",Racer Select
@@ -905,14 +743,10 @@ https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/i
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Roku Sports Channel" tvg-country="US" group-title="Deportes · Estados Unidos",Roku Sports Channel
 https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8#l105
-#EXTINF:-1 tvg-name="Roku Sports Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500005Z1_20260811T043555SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Roku Sports Channel
-https://jmp2.uk/stvp-US4500005Z1#l105
 #EXTINF:-1 tvg-name="Ryz Sports Network" tvg-country="US" group-title="Deportes · Estados Unidos",Ryz Sports Network
 https://amg27125-amg27125c1-amgplt0022.playout.now3.amagi.tv/playlist/amg27125-amg27125c1-amgplt0022/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Scripps Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400221W2_20261009T160658SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Scripps Sports Network
 https://jmp2.uk/stvp-US400221W2#l105
-#EXTINF:-1 tvg-name="Scripps Sports Network" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e8dddc90d079e4fcc8930c345f05ebd1.png" tvg-country="US" group-title="Deportes · Estados Unidos",Scripps Sports Network
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69b047eed42e70e462105dbb/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Shooting Sports Life" tvg-country="US" group-title="Deportes · Estados Unidos",Shooting Sports Life
 https://a-cdn.klowdtv.com/live2/ssl_720p/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Slopes TV" tvg-logo="https://i.imgur.com/8bzAfgK.png" tvg-country="US" group-title="Deportes · Estados Unidos",Slopes TV
@@ -921,8 +755,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241#l105
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69b845bb8b510f5b7fff04b2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Speed Sport 1" tvg-country="US" group-title="Deportes · Estados Unidos",Speed Sport 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Speed Sport 1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3897a520-f7e3-44f0-a18c-11687795059f/SPEED_SPORT_1_1500X1000_COLOR_LOGO_FOR_DARK_BACKGROUND.png" tvg-country="US" group-title="Deportes · Estados Unidos",Speed Sport 1
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69cab85156654a7a82926dad/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Sport Fishing TV" tvg-country="US" group-title="Deportes · Estados Unidos",Sport Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8#l105
 #EXTINF:-1 tvg-name="Sports First" tvg-country="US" group-title="Deportes · Estados Unidos",Sports First
@@ -931,66 +763,40 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8#l105
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6216ae22c3bbca2de8704f65/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://i.imgur.com/ulGKX30.png" tvg-country="US" group-title="Deportes · Estados Unidos",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20261103T171519SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",SportsGrid
-https://jmp2.uk/stvp-USBA300031OT#l105
-#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" tvg-country="US" group-title="Deportes · Estados Unidos",SportsGrid
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5ef11485d33ab9004048a1ca/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="SPORTSGRID" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png" tvg-country="US" group-title="Deportes · Estados Unidos",SPORTSGRID
-https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8#l105
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/SnZOiER.png" tvg-country="US" group-title="Deportes · Estados Unidos",Stadium
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/6ae9E8d.png" tvg-country="US" group-title="Deportes · Estados Unidos",Stadium
-https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8#l105
 #EXTINF:-1 tvg-name="Stargate" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Stargate
 https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8#l105
 #EXTINF:-1 tvg-name="Strongman" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="US" group-title="Deportes · Estados Unidos",Strongman
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Swerve Combat" tvg-logo="https://i.imgur.com/eFZh7aG.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Combat
 https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Swerve Combat" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8c48bcf59acd57779977b83a41fac919/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697035676086_Swerve_Combat_Logo_260x147_Center_Align_White.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Combat
-https://jmp2.uk/rok-8c48bcf59acd57779977b83a41fac919.m3u8#l105
 #EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://i.imgur.com/GT0Yi2T.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Sports
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Swerve Sports Talk" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8886bc5cea175ba011a228c63b22e0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1790878764745_swerve_sports_talk_logo_hud.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Sports Talk
 https://jmp2.uk/rok-8886bc5cea175ba011a228c63b22e0d5.m3u8#l105
-#EXTINF:-1 tvg-name="Swerve Women's Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5d80a41-eddf-465e-8d05-174ad28ea646/Swerve_Womens_Sports_1500X1000_For_Dark_Backgrounds_VerticalRDX.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Women's Sports
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a109508cd23e9639dc7e94a/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Swerve Women’s Sports" tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1775667541424.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Women’s Sports
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8#l105
-#EXTINF:-1 tvg-name="Swerve Women’s Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/51dea927355343df5a6f26545d07adc8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png" tvg-country="US" group-title="Deportes · Estados Unidos",Swerve Women’s Sports
-https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8#l105
 #EXTINF:-1 tvg-name="T2 Tennis Channel" tvg-country="US" group-title="Deportes · Estados Unidos",T2 Tennis Channel
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Team USA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/257afd66cee15a1ca2125fc377e87cc2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718724430937_TeamUSATV_HUDLogo_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Team USA TV
-https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8#l105
 #EXTINF:-1 tvg-name="Telemundo Deportes Ahora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800015QA_20260421T142311SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Telemundo Deportes Ahora
 https://jmp2.uk/stvp-US800015QA#l105
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-country="US" group-title="Deportes · Estados Unidos",Tennis Channel
 https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8#l105
 #EXTINF:-1 tvg-name="Tennis Channel 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" tvg-country="US" group-title="Deportes · Estados Unidos",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8#l105
-#EXTINF:-1 tvg-name="Tennis Channel 2" tvg-country="US" group-title="Deportes · Estados Unidos",Tennis Channel 2
-https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8#l105
-#EXTINF:-1 tvg-name="Tennis Channel 2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" tvg-country="US" group-title="Deportes · Estados Unidos",Tennis Channel 2
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" tvg-country="US" group-title="Deportes · Estados Unidos",Tennis TV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a90b2b5c0870218305e909b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" tvg-country="US" group-title="Deportes · Estados Unidos",Tennis+
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="TennisChannel 2" tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png" tvg-country="US" group-title="Deportes · Estados Unidos",TennisChannel 2
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8#l105
 #EXTINF:-1 tvg-name="The Great Christmas Light Fight on Places & Spaces" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a19d1fe4-a6f3-4f34-b203-4dd55ea1bd9a/TheGreatChristmasLightFight_P_S_Logocolor_white_colorRDX.png" tvg-country="US" group-title="Deportes · Estados Unidos",The Great Christmas Light Fight on Places & Spaces
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="The NBA Channel" tvg-country="US" group-title="Deportes · Estados Unidos",The NBA Channel
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8#l105
-#EXTINF:-1 tvg-name="The NBA Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20261023T182447SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",The NBA Channel
-https://jmp2.uk/stvp-US3600003R7#l105
-#EXTINF:-1 tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",TNA Wrestling Channel
-https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8#l105
-#EXTINF:-1 tvg-name="Todo Cine" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b015fcbafb496320954672321e746f8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347842585_LOGO_Todocine_Roku_HUD-verticalRoxannaTork.png" tvg-country="US" group-title="Deportes · Estados Unidos",Todo Cine
-https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8#l105
-#EXTINF:-1 tvg-name="Top Rank Classics" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c0b79a332cfd90b8eeb6d4a0dcb63674/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730998467166_TRClassics_HUD.png" tvg-country="US" group-title="Deportes · Estados Unidos",Top Rank Classics
-https://jmp2.uk/rok-c0b79a332cfd90b8eeb6d4a0dcb63674.m3u8#l105
+#EXTINF:-1 tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" tvg-country="US" group-title="Deportes · Estados Unidos",TNA Wrestling Channel
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-606605549dbfca002d2ae873/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
+#EXTINF:-1 tvg-name="Top Rank Classics" tvg-country="US" group-title="Deportes · Estados Unidos",Top Rank Classics
+https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8#l105
 #EXTINF:-1 tvg-name="TVS Bowling Network" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" tvg-country="US" group-title="Deportes · Estados Unidos",TVS Bowling Network
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8#l105
 #EXTINF:-1 tvg-name="TVS Boxing" tvg-logo="https://i.imgur.com/30ZoF75.png" tvg-country="US" group-title="Deportes · Estados Unidos",TVS Boxing
@@ -1007,18 +813,14 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8#l105
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8#l105
 #EXTINF:-1 tvg-name="UFC" tvg-country="US" group-title="Deportes · Estados Unidos",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8#l105
-#EXTINF:-1 tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20260421T143247SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",UFC
-https://jmp2.uk/stvp-US2900017P2#l105
-#EXTINF:-1 tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" tvg-country="US" group-title="Deportes · Estados Unidos",UFC
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ccac69fdf9cd3a568ef135/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Unbeaten" tvg-logo="https://i.imgur.com/LmkNt3v.png" tvg-country="US" group-title="Deportes · Estados Unidos",Unbeaten
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Unbeaten Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/98cafb7f4b01848a967fda4bd2225bd7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783443201350_unbeaten_sports_logo_hud.png" tvg-country="US" group-title="Deportes · Estados Unidos",Unbeaten Sports
 https://jmp2.uk/rok-98cafb7f4b01848a967fda4bd2225bd7.m3u8#l105
 #EXTINF:-1 tvg-name="Unbeaten Sports Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Unbeaten Sports Channel
 https://jmp2.uk/stvp-US1400008DW#l105
-#EXTINF:-1 tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Universal Westerns
-https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8#l105
+#EXTINF:-1 tvg-name="Universal Westerns" tvg-country="US" group-title="Deportes · Estados Unidos",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8#l105
 #EXTINF:-1 tvg-name="ViX Deportes 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20261006T051008SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",ViX Deportes 24/7
 https://jmp2.uk/stvp-USBD1700016X9#l105
 #EXTINF:-1 tvg-name="ViX Lo Mejor de Liga MX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" tvg-country="US" group-title="Deportes · Estados Unidos",ViX Lo Mejor de Liga MX
@@ -1027,26 +829,14 @@ https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8#l105
 http://tvsen5.aynascope.net/willowhd/index.m3u8#l105
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" tvg-country="US" group-title="Deportes · Estados Unidos",Willow Sports
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8#l105
-#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US20000131M_20260421T143224SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Willow Sports
-https://jmp2.uk/stvp-US20000131M#l105
-#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" tvg-country="US" group-title="Deportes · Estados Unidos",Willow Sports
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66fbf9cf128ab3f65b259bcb/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://i.imgur.com/rhIwUcQ.png" tvg-country="US" group-title="Deportes · Estados Unidos",Women's Sports Network
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8#l105
-#EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100001KP_20260421T143020SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Women's Sports Network
-https://jmp2.uk/stvp-US4100001KP#l105
-#EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" tvg-country="US" group-title="Deportes · Estados Unidos",Women's Sports Network
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-630fa9e577ec3866def38fa2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png" tvg-country="US" group-title="Deportes · Estados Unidos",Women's Sports Network
-https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8#l105
 #EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-country="US" group-title="Deportes · Estados Unidos",World Poker Tour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8#l105
 #EXTINF:-1 tvg-name="WWE NXT" tvg-country="US" group-title="Deportes · Estados Unidos",WWE NXT
 https://amg00347-amg00347c2-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00347-amg00347c2-amgplt0022/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="WWE Superstar Central" tvg-country="US" group-title="Deportes · Estados Unidos",WWE Superstar Central
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="WWE Superstar Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20260421T142358SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",WWE Superstar Central
-https://jmp2.uk/stvp-US700005ID#l105
 #EXTINF:-1 tvg-name="Xena" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/302d8d86738c0ab83d0ca3a5e2df3492/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" tvg-country="US" group-title="Deportes · Estados Unidos",Xena
 https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8#l105
 #EXTINF:-1 tvg-name="XFC TV" tvg-logo="https://i.imgur.com/LcfzmG0.png" tvg-country="US" group-title="Deportes · Estados Unidos",XFC TV
@@ -1055,12 +845,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247#l105
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8#l105
 #EXTINF:-1 tvg-name="Yahoo! Sports Network" tvg-country="US" group-title="Deportes · Estados Unidos",Yahoo! Sports Network
 https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8#l105
-#EXTINF:-1 tvg-name="Yahoo! Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20260421T143258SQUARE.png" tvg-country="US" group-title="Deportes · Estados Unidos",Yahoo! Sports Network
-https://jmp2.uk/stvp-US3200012O8#l105
-#EXTINF:-1 tvg-name="Yahoo! Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c2d21da-e88d-4886-b221-69213fad8260/YSN_1500x1000_logo_for_light_bgd_-_WHITETEXTs.png" tvg-country="US" group-title="Deportes · Estados Unidos",Yahoo! Sports Network
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68b0af6097cf9742e13391a5/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
-#EXTINF:-1 tvg-name="Z Nation" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f99fa811e587e924c1aeebfe3d7f575f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736192889275_ZNation_HUDlogo_centered_260x147.png" tvg-country="US" group-title="Deportes · Estados Unidos",Z Nation
-https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8#l105
 #EXTINF:-1 tvg-name="Go3 Sport 1" tvg-logo="https://i.imgur.com/0eZa0qh.png" tvg-country="EE" group-title="Deportes · Estonia",Go3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/416/index.m3u8#l105
@@ -1080,9 +864,6 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8#l105
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8#l105
 #EXTINF:-1 tvg-name="Equidia Racing Mag" tvg-country="FR" group-title="Deportes · Francia",Equidia Racing Mag
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8#l105
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://i.imgur.com/s4jDnJh.png" tvg-country="FR" group-title="Deportes · Francia",Eurosport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://103.253.74.210:7070/stream/122/index.m3u8#l105
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" group-title="Deportes · Francia",Eurosport 1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" group-title="Deportes · Francia",Eurosport 2
@@ -1106,8 +887,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 #EXTINF:-1 tvg-name="L'Equipe" tvg-logo="https://i.imgur.com/t35zhM9.png" tvg-country="FR" group-title="Deportes · Francia",L'Equipe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8#l105
-#EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png" tvg-country="FR" group-title="Deportes · Francia",L'Équipe
-https://www.youtube.com/@lequipe/live#l105
 #EXTINF:-1 tvg-name="L'Équipe Ⓓ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png" tvg-country="FR" group-title="Deportes · Francia",L'Équipe Ⓓ
 https://www.dailymotion.com/video/x2lefik#l105
 #EXTINF:-1 tvg-name="Motor Racing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261020T053555SQUARE.png" tvg-country="FR" group-title="Deportes · Francia",Motor Racing
@@ -1116,8 +895,6 @@ https://jmp2.uk/stvp-FR900002B4#l105
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02bd93ac783fe20d1bf7/colorLogoPNG_1785333415249.png" tvg-country="FR" group-title="Deportes · Francia",NFL Channel
 https://jmp2.uk/plu-6a6a02bd93ac783fe20d1bf7.m3u8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" tvg-country="FR" group-title="Deportes · Francia",NFL Channel
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Persiana Fight" tvg-country="FR" group-title="Deportes · Francia",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8#l105
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" tvg-country="FR" group-title="Deportes · Francia",Racing America
@@ -1126,18 +903,12 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61a945156547
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png" tvg-country="FR" group-title="Deportes · Francia",Tennis Channel
 https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8#l105
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000002SW_20260915T041512SQUARE.png" tvg-country="FR" group-title="Deportes · Francia",Tennis Channel
-https://jmp2.uk/stvp-FR5000002SW#l105
 #EXTINF:-1 tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" tvg-country="FR" group-title="Deportes · Francia",Tennis TV
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300004LY_20260901T054540SQUARE.png" tvg-country="FR" group-title="Deportes · Francia",Tennis+
 https://jmp2.uk/stvp-FR1300004LY#l105
-#EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" tvg-country="FR" group-title="Deportes · Francia",Tennis+
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6761f91555e174e95ccc4e4c/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-country="FR" group-title="Deportes · Francia",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="UFC" tvg-country="FR" group-title="Deportes · Francia",UFC
-https://jmp2.uk/plu-67921b78b83355184c667770.m3u8#l105
 #EXTINF:-1 tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" tvg-country="FR" group-title="Deportes · Francia",UFC
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66ccac69fdf9cd3a568ef135/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" tvg-country="FR" group-title="Deportes · Francia",Women's Sports Network
@@ -1163,8 +934,6 @@ http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://i.imgur.com/TQ4uJZk.png" tvg-country="HU" group-title="Deportes · Hungría",M4 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/uatlmvixrr/index.m3u8#l105
-#EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-country="HU" group-title="Deportes · Hungría",M4 Sport
-http://141.94.193.53:80/M4_Sport_HD/index.m3u8#l105
 #EXTINF:-1 tvg-name="Match4" tvg-logo="https://i.imgur.com/hzexBLX.png" tvg-country="HU" group-title="Deportes · Hungría",Match4
 http://141.94.193.53/Match4_HD/index.m3u8#l105
 #EXTINF:-1 tvg-name="Spiler 1" tvg-logo="https://i.imgur.com/pbk8c4x.png" tvg-country="HU" group-title="Deportes · Hungría",Spiler 1
@@ -1179,10 +948,6 @@ http://88.212.7.14/live/sport1_hun/index.m3u8#l105
 #EXTINF:-1 tvg-name="Sport 2" tvg-logo="https://i.imgur.com/UxflVoU.png" tvg-country="HU" group-title="Deportes · Hungría",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8#l105
-#EXTINF:-1 tvg-name="Sport1" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport1.gif" tvg-country="HU" group-title="Deportes · Hungría",Sport1
-http://141.94.193.53:80/Sport_1_HD/index.m3u8#l105
-#EXTINF:-1 tvg-name="Sport2" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport2.gif" tvg-country="HU" group-title="Deportes · Hungría",Sport2
-http://141.94.193.53:80/Sport_2_HD/index.m3u8#l105
 #EXTINF:-1 tvg-name="DD Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" group-title="Deportes · India",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8#l105
 #EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" tvg-country="IN" group-title="Deportes · India",Eurosport
@@ -1250,8 +1015,6 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/play
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="5Plus" tvg-logo="https://i.imgur.com/L3RA9Lv.png" tvg-country="IL" group-title="Deportes · Israel",5Plus
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="5Sport" tvg-logo="https://i.imgur.com/dRVsB89.png" tvg-country="IL" group-title="Deportes · Israel",5Sport
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="5Sport 4K" tvg-logo="https://i.imgur.com/Msfhpqd.png" tvg-country="IL" group-title="Deportes · Israel",5Sport 4K
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="5Stars" tvg-logo="https://i.imgur.com/IQtAKIa.png" tvg-country="IL" group-title="Deportes · Israel",5Stars
@@ -1282,8 +1045,6 @@ https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8#l105
 https://jmp2.uk/plu-69690bb672db627531285928.m3u8#l105
 #EXTINF:-1 tvg-name="Radio TV Serie A" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" tvg-country="IT" group-title="Deportes · Italia",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8#l105
-#EXTINF:-1 tvg-name="Radio TV Serie A" tvg-logo="https://i.imgur.com/2AvxGJF.png" tvg-country="IT" group-title="Deportes · Italia",Radio TV Serie A
-https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8#l105
 #EXTINF:-1 tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-country="IT" group-title="Deportes · Italia",Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5#l105
 #EXTINF:-1 tvg-name="Rai Sport 2" tvg-country="IT" group-title="Deportes · Italia",Rai Sport 2
@@ -1296,8 +1057,6 @@ https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavo
 https://jmp2.uk/stvp-IT16000070D#l105
 #EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/0CJGGgd.png" tvg-country="IT" group-title="Deportes · Italia",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000002TG_20260707T053001SQUARE.png" tvg-country="IT" group-title="Deportes · Italia",Sportitalia
-https://jmp2.uk/stvp-IT1000002TG#l105
 #EXTINF:-1 tvg-name="Sportitalia Motori" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-country="IT" group-title="Deportes · Italia",Sportitalia Motori
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-country="IT" group-title="Deportes · Italia",Sportitalia Plus
@@ -1306,15 +1065,9 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8#l105
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Sportoutdoor.tv" tvg-country="IT" group-title="Deportes · Italia",Sportoutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8#l105
-#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300022EA_20260113T032817SQUARE.png" tvg-country="IT" group-title="Deportes · Italia",SportOutdoor.tv
-https://jmp2.uk/stvp-ITBA3300022EA#l105
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" tvg-country="IT" group-title="Deportes · Italia",SuperTennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.128.225.206/stream/7/index.m3u8#l105
-#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260915T041845SQUARE.png" tvg-country="IT" group-title="Deportes · Italia",SuperTennis
-https://jmp2.uk/stvp-IT800003V4#l105
-#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-country="IT" group-title="Deportes · Italia",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8#l105
 #EXTINF:-1 tvg-name="Tele Golfo RTG" tvg-logo="https://hostux.pics/images/2026/09/11/23_tele_golfo_rtg82613af55dc2f27c.png" tvg-country="IT" group-title="Deportes · Italia",Tele Golfo RTG
 https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT20000053A_20250729T045608SQUARE.png" tvg-country="IT" group-title="Deportes · Italia",Tennis+
@@ -1484,8 +1237,6 @@ https://jmp2.uk/plu-66f1331f9409630008077623.m3u8#l105
 https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Eurovision Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800003OS_20260428T031432SQUARE.png" tvg-country="GB" group-title="Deportes · Reino Unido",Eurovision Sport
 https://jmp2.uk/stvp-GB3800003OS#l105
-#EXTINF:-1 tvg-name="Eurovision Sport" tvg-logo="https://provider-static.plex.tv/epg/cms/production/34605d99-87be-4ed8-a273-2410e0bc1504/Plex_channel_logo_dark.png-02_-_Jean-Jacques_QueraudColor_WHT_TEXTRDX.png" tvg-country="GB" group-title="Deportes · Reino Unido",Eurovision Sport
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69c416084906b54471aab101/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" group-title="Deportes · Reino Unido",FIFA+
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8#l105
 #EXTINF:-1 tvg-name="FIFA+ Women" tvg-logo="https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png" tvg-country="UK" group-title="Deportes · Reino Unido",FIFA+ Women
@@ -1510,8 +1261,6 @@ https://jmp2.uk/stvp-GBBA1500006H6#l105
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8#l105
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ce1b1c90d8bf9556d8/colorLogoPNG_1785333477887.png" tvg-country="GB" group-title="Deportes · Reino Unido",NFL Channel
 https://jmp2.uk/plu-6a6a02ce1b1c90d8bf9556d8.m3u8#l105
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" tvg-country="GB" group-title="Deportes · Reino Unido",NFL Channel
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69f4f6c2647c1d14cc38677b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="NFL Super Bowl Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png" tvg-country="GB" group-title="Deportes · Reino Unido",NFL Super Bowl Champions
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6a10994ab05301ef36a6a8e2/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" tvg-country="GB" group-title="Deportes · Reino Unido",Racing America
@@ -1551,16 +1300,12 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://jmp2.uk/stvp-GB30003577#l105
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6627621d56fc840008e47c90/colorLogoPNG_1756973184696.png" tvg-country="GB" group-title="Deportes · Reino Unido",Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8#l105
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20260113T032555SQUARE.png" tvg-country="GB" group-title="Deportes · Reino Unido",Tennis Channel
-https://jmp2.uk/stvp-GBBA33000529G#l105
 #EXTINF:-1 tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" tvg-country="GB" group-title="Deportes · Reino Unido",Tennis TV
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6a90b2b5c0870218305e909b/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="Tennis+" tvg-country="UK" group-title="Deportes · Reino Unido",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8#l105
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000010ML_20250624T021705SQUARE.png" tvg-country="GB" group-title="Deportes · Reino Unido",Tennis+
 https://jmp2.uk/stvp-GB2000010ML#l105
-#EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" tvg-country="GB" group-title="Deportes · Reino Unido",Tennis+
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6761f91555e174e95ccc4e4c/?X-Plex-Token=oKR3wxgy7GUycRk9jZob#l105
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-country="UK" group-title="Deportes · Reino Unido",TNT Sports 1
 http://37.49.224.5/stream/1/index.m3u8#l105
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-country="UK" group-title="Deportes · Reino Unido",TNT Sports 2
@@ -1724,8 +1469,6 @@ https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8#l105
 https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8#l105
 #EXTINF:-1 tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-country="SE" group-title="Deportes · Suecia",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8#l105
-#EXTINF:-1 tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png" tvg-country="SE" group-title="Deportes · Suecia",Pluto TV Sport
-https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8#l105
 #EXTINF:-1 tvg-name="Retake E-sport Live" tvg-country="SE" group-title="Deportes · Suecia",Retake E-sport Live
 https://jmp2.uk/plu-69a164f76c0414a7ec68de54.m3u8#l105
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c9ca759366af055fe891/colorLogoPNG_1756971817950.png" tvg-country="SE" group-title="Deportes · Suecia",Tennis Channel
@@ -1774,8 +1517,6 @@ https://tjktv-live.tjk.org/tjktv.m3u8#l105
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8#l105
 #EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-country="TR" group-title="Deportes · Turquía",TRT Spor
 https://corestream.siteyaptim.live/trt-spor/index.m3u8#l105
-#EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/N2wGZyf.png" tvg-country="TR" group-title="Deportes · Turquía",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8#l105
 #EXTINF:-1 tvg-name="TRT Spor Yildiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-country="TR" group-title="Deportes · Turquía",TRT Spor Yildiz
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor#l105
 #EXTINF:-1 tvg-name="DiviSport" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" tvg-country="UA" group-title="Deportes · Ucrania",DiviSport
@@ -1813,8 +1554,6 @@ http://stream.mcquack.net/394/index.m3u8#l105
 #EXTINF:-1 tvg-name="Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" tvg-country="UA" group-title="Deportes · Ucrania",Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/212/index.m3u8#l105
-#EXTINF:-1 tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-country="UA" group-title="Deportes · Ucrania",Suspilne Sport
-http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8#l105
 #EXTINF:-1 tvg-name="Suspilne. Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-country="UA" group-title="Deportes · Ucrania",Suspilne. Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/444/index.m3u8#l105
