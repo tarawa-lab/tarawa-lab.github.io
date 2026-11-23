@@ -9,9 +9,6 @@ https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8#l108
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8#l108
 #EXTINF:-1 tvg-name="BBC UHD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" tvg-country="UK" group-title="Generalistas",BBC UHD 4
 http://45.14.84.37/bbc4/index.m3u8#l108
-#EXTINF:-1 tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-country="CZ" group-title="Deportes",Eurosport 4K Czechia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.50/live/esp_4k_atk/playlist.m3u8#l108
 #EXTINF:-1 tvg-name="Eurosport 4K" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-country="FR" group-title="Deportes",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8#l108
 #EXTINF:-1 tvg-name="5Sport 4K" tvg-logo="https://i.imgur.com/Msfhpqd.png" tvg-country="IL" group-title="Deportes",5Sport 4K
