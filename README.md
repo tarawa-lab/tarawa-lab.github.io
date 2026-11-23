@@ -5,5 +5,6 @@
 - 103.m3u: por géneros (todo el mundo)
 - 104.m3u: TDT España
 - 105.m3u: solo deportes
+- 106.m3u: HD en español o deportivos
 
 Se copian cada semana desde tarawa-lab/nuvio-tv-abierto (carpeta listas/).
