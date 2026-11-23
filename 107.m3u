@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://i.imgur.com/fxusYlX.png" tvg-country="CN" group-title="Generalistas",CCTV-4K
+http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="Hebei TV" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" tvg-country="CN" group-title="Generalistas",Hebei TV
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-name="Clarity 4K" tvg-logo="https://i.imgur.com/M87kbVk.png" tvg-country="US" group-title="Generalistas",Clarity 4K
+https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+#EXTINF:-1 tvg-name="IRIB UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" tvg-country="IR" group-title="Generalistas",IRIB UHD
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC UHD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" tvg-country="UK" group-title="Generalistas",BBC UHD 4
+http://45.14.84.37/bbc4/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-country="CZ" group-title="Deportes",Eurosport 4K Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 4K" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-country="FR" group-title="Deportes",Eurosport 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
+#EXTINF:-1 tvg-name="5Sport 4K" tvg-logo="https://i.imgur.com/Msfhpqd.png" tvg-country="IL" group-title="Deportes",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Hunan TV" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-country="CN" group-title="Entretenimiento",Hunan TV
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-country="CN" group-title="Entretenimiento",Shenzhen Satellite TV
+https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" tvg-country="KR" group-title="Entretenimiento",Bloomberg TV+ UHD
+https://jmp2.uk/stvp-KRBB500039Y5
+#EXTINF:-1 tvg-name="Public 4K TV" tvg-logo="https://i.imgur.com/JxEzgDP.png" tvg-country="NP" group-title="Entretenimiento",Public 4K TV
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-name="Insayt TV" tvg-logo="https://i.imgur.com/slLuRel.png" tvg-country="RU" group-title="Entretenimiento",Insayt TV
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" tvg-country="US" group-title="Documentales",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" group-title="Viajes",Love Nature
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="4K Travel TV" tvg-country="US" group-title="Viajes",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-name="Travelxp" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-country="IN" group-title="Viajes",Travelxp
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-country="US" group-title="Economía",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-name="Privesc.Eu TV" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-country="MD" group-title="Institucional",Privesc.Eu TV
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-name="FunBox UHD" tvg-logo="https://i.imgur.com/9FJct9o.png" tvg-country="NL" group-title="Relax",FunBox UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+#EXTINF:-1 tvg-name="Home 4K" tvg-logo="https://i.imgur.com/3UXk7JR.png" tvg-country="RU" group-title="Relax",Home 4K
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-country="CN" group-title="Otros",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" tvg-country="KR" group-title="Otros",Fireplace 4K
+https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 tvg-name="SAMSUNG UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png" tvg-country="KR" group-title="Otros",SAMSUNG UHD
+https://jmp2.uk/stvp-KRAH2201403A
+#EXTINF:-1 tvg-name="tvN 어느날 우리집 현관으로 멸망이 들어왔다 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260728T033458SQUARE.png" tvg-country="KR" group-title="Otros",tvN 어느날 우리집 현관으로 멸망이 들어왔다 4K
+https://jmp2.uk/stvp-KRBC4500001A5
+#EXTINF:-1 tvg-name="Clarity 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20260721T032814SQUARE.png" tvg-country="US" group-title="Otros",Clarity 4K
+https://jmp2.uk/stvp-USBA3800005NI
+#EXTINF:-1 tvg-name="Fireplace Vibes" tvg-country="US" group-title="Otros",Fireplace Vibes
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-name="Loupe 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20260421T142928SQUARE.png" tvg-country="US" group-title="Otros",Loupe 4K
+https://jmp2.uk/stvp-USBB1000002TK
+#EXTINF:-1 tvg-name="Ocean Vibes" tvg-country="US" group-title="Otros",Ocean Vibes
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+#EXTINF:-1 tvg-name="Univision" tvg-logo="https://i.imgur.com/NpBJT6P.png" tvg-country="US" group-title="Otros",Univision
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-name="Rai 4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-country="IT" group-title="Otros",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-name="Fireplace Vibes" tvg-country="UK" group-title="Otros",Fireplace Vibes
+https://d21izs34d0y5tl.cloudfront.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-name="Digi 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" tvg-country="RO" group-title="Otros",Digi 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
