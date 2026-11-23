@@ -6,6 +6,6 @@
 - 104.m3u: TDT España
 - 105.m3u: solo deportes
 - 106.m3u: HD en español o deportivos
-- 107.m3u: FHD (1080p) y 4K
+- 107.m3u: solo 4K
 
 Se copian cada semana desde tarawa-lab/nuvio-tv-abierto (carpeta listas/).
